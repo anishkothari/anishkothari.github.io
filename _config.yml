@@ -1,0 +1,12 @@
+# Site settings
+title: Anish Kothari
+email: anishkothari@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The personal website of Anish Kothari.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://anishkothari.com" # the base hostname & protocol for your site
+twitter_username: anishkothari
+github_username:  anishkothari
+
+# Build settings
+markdown: kramdown
